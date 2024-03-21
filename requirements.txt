@@ -1,0 +1,4 @@
+wget
+streamlit
+flask
+libtorrent
