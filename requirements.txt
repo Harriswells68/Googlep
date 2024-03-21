@@ -1,4 +1,0 @@
-requirements.txtwget==3.2
-streamlit==1.32.0
-flask==2.0.1
-libtorrent==2.0.9
